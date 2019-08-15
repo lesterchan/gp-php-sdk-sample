@@ -1,0 +1,16 @@
+{
+  "name": "lesterchan/gp-php-sdk-sample",
+  "description": "The GP SDK for PHP sample project.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lester Chan",
+      "email": "lesterchan@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "lesterchan/gp-php-sdk": "dev-master"
+  }
+}
