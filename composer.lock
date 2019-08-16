@@ -200,12 +200,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lesterchan/gp-php-sdk.git",
-                "reference": "5b61dbf729083d54ce0e33ab79dcf7583a169694"
+                "reference": "7d8c37b1de43545ebd7ad972eba832ac78ce9f0e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lesterchan/gp-php-sdk/zipball/5b61dbf729083d54ce0e33ab79dcf7583a169694",
-                "reference": "5b61dbf729083d54ce0e33ab79dcf7583a169694",
+                "url": "https://api.github.com/repos/lesterchan/gp-php-sdk/zipball/7d8c37b1de43545ebd7ad972eba832ac78ce9f0e",
+                "reference": "7d8c37b1de43545ebd7ad972eba832ac78ce9f0e",
                 "shasum": ""
             },
             "require": {
@@ -230,7 +230,7 @@
                 }
             ],
             "description": "The GP SDK for PHP provides a native interface to the GP API.",
-            "time": "2019-08-15T02:27:30+00:00"
+            "time": "2019-08-16T04:01:57+00:00"
         },
         {
             "name": "psr/http-message",
